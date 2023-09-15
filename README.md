@@ -11,7 +11,7 @@
 <br />
 <p margin='5px' align="center"> 
   <a href="https://www.php.net" target="_blank"> 
-    <img src="https://www.php.net/images/logos/new-php-logo.png" alt="php" width="60" height="40"/> 
+    <img src="https://www.php.net/images/logos/new-php-logo.png" margin="5" alt="php" width="60" height="40"/> 
   </a>
 
  <a href="https://nodejs.org/" target="_blank"> 
@@ -21,10 +21,14 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
   </a>
 
+    <a href="https://www.w3schools.com/css/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
+  </a>
+
 </p>
 
-## Frontend: 
-<p>
+## 🎨 Frontend: 
+<p align='center>
     <a href="https://tailwindcss.com/" target="_blank"> 
     <img src="https://res.cloudinary.com/arcjet-media/image/upload/c_scale,w_256/v1608734952/z8hzeszc9eb3sp3vp3qc.jpg" alt="css3" width="40" height="40"/> 
   </a>
