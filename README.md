@@ -11,17 +11,17 @@
 <br />
 <p margin='5px' align="center"> 
   <a href="https://www.php.net" target="_blank"> 
-    <img src="https://www.php.net/images/logos/new-php-logo.png" margin="5" alt="php" margin="20" width="70" height="40"/> 
+    <img src="https://www.php.net/images/logos/new-php-logo.png" margin="5" alt="php" margin="20" width="110" height="55"/> 
   </a>
 
  <a href="https://nodejs.org/" target="_blank"> 
-    <img src="https://nodejs.org/static/images/logo.svg" alt="Node JS" width="90" margin="20" height="40"/> 
+    <img src="https://nodejs.org/static/images/logo.svg" alt="Node JS" width="110" margin="20" height="55"/> 
   </a>
   <a href="https://www.w3schools.com/css/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" margin="20" alt="css3" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" margin="20" alt="css3" width="70" height="55"/> 
   </a>
     <a href="https://www.mysql.com" target="_blank"> 
-    <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" alt="MySQL" margin="20" width="80" height="40"/> 
+    <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" alt="MySQL" margin="20" width="110" height="55"/> 
   </a>
 
 
