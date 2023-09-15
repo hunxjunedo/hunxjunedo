@@ -1,16 +1,17 @@
 <h2 align="center">Hi, I'm Called Hunx :) </h2>
+<p>Karachi, Pakistan</p>
 
 
 ## 🧔 About me:
 - I'm a freelance software developer with experience 2 years in LAMP and MERN stacks.
-- 
+- To hire, contact on <a href='https://www.linkedin.com/in/hunain-ahmed-267780275/'>LinkedIn</a> or <a href='mailto:junaidhunain6@gmailcom'>email: junaidhunain6@gmail.com </a>
 <br>
 
 ## 🖥️ Languages:
 <br />
 <p align="center"> 
-  <a href="https://docs.soliditylang.org/en/develop/" target="_blank"> 
-    <img src="https://www.kindpng.com/picc/m/694-6948383_developing-ethereum-smart-contracts-for-beginners-ethereum-and.png" alt="solidity" width="40" height="40"/> 
+  <a href="https://www.php.net" target="_blank"> 
+    <img src="https://www.php.net/images/logos/new-php-logo.png" alt="php" width="40" height="40"/> 
   </a>
   <a href="https://reactjs.org/" target="_blank"> 
     <img src="https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-png-transparent.png" alt="reactjs" width="40" height="40"/> 
