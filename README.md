@@ -9,7 +9,7 @@
 
 ## 🖥️ Languages:
 <br />
-<p style={margin: 2px;} align="center"> 
+<p style={margin: 10px;} align="center"> 
   <a href="https://www.php.net" target="_blank"> 
     <img src="https://www.php.net/images/logos/new-php-logo.png" alt="php" width="60" height="40"/> 
   </a>
