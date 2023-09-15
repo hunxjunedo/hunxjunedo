@@ -23,7 +23,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
   </a>
     <a href="https://nodejs.org/" target="_blank"> 
-    <img src="(https://nodejs.org/static/images/logo.svg" alt="Node JS" width="80" height="40"/> 
+    <img src="https://nodejs.org/static/images/logo.svg" alt="Node JS" width="80" height="40"/> 
   </a>
   <a href="https://www.w3schools.com/css/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
