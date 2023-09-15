@@ -9,9 +9,9 @@
 
 ## 🖥️ Languages:
 <br />
-<p align="center"> 
+<p style={margin: 2px;} align="center"> 
   <a href="https://www.php.net" target="_blank"> 
-    <img src="https://www.php.net/images/logos/new-php-logo.png" alt="php" width="40" height="40"/> 
+    <img src="https://www.php.net/images/logos/new-php-logo.png" alt="php" width="60" height="40"/> 
   </a>
   <a href="https://reactjs.org/" target="_blank"> 
     <img src="https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-png-transparent.png" alt="reactjs" width="40" height="40"/> 
