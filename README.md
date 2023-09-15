@@ -1,5 +1,5 @@
 <h2 align="center">Hi, I'm Called Hunx :) </h2>
-<p>Karachi, Pakistan</p>
+<p align="center">Karachi, Pakistan</p>
 
 
 ## 🧔 About me:
@@ -9,7 +9,7 @@
 
 ## 🖥️ Languages:
 <br />
-<p style={margin: 10px;} align="center"> 
+<p margin='5px' align="center"> 
   <a href="https://www.php.net" target="_blank"> 
     <img src="https://www.php.net/images/logos/new-php-logo.png" alt="php" width="60" height="40"/> 
   </a>
