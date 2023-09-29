@@ -46,9 +46,7 @@
 </p>
 
 
-## 🔥 Stats:
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=hunxjunedo&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="hunxjunedo" /><br />
-<div align="center"><img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hunxjunedo&theme=github_dark&layout=compact&border_color=1F1F1F" /></div></p>
+
 
 
 
