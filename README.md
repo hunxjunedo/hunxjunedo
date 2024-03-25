@@ -4,7 +4,7 @@
 
 ## 🧔 About me:
 - I'm a freelance software developer with experience 2 years in LAMP and MERN stacks.
-- 📞 / WA: <a href='tel:+923208315780'>+923208315780</a>
+- 📞 / WA: <a href='tel:+923208315780' >+923208315780 </a>
 - To hire, contact on <a href='https://www.linkedin.com/in/hunain-ahmed-267780275/'>LinkedIn</a> or <a href='mailto:junaidhunain6@gmailcom'>email: junaidhunain6@gmail.com </a>
 <br>
 
