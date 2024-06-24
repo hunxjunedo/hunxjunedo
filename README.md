@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Hunain</h1>
-<h3 align="center">a freelance software developer from Pakistan, with experience 2 years in LAMP and MERN stacks.</h3>
+<h3 align="center">a freelance software developer from Pakistan, always working on something new and fascinating.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hunxjunedo&label=Profile%20views&color=0e75b6&style=flat" alt="hunxjunedo" /> </p>
 
