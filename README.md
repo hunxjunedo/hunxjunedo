@@ -1,9 +1,10 @@
 <h1 align="center">Hey 👋, I'm Hunain</h1>
 <h3 align="center">a freelance software developer from Pakistan, always working on something new and fascinating.</h3>
+<p align="center">I'm pursuing my A-levels in <strong >Further Maths, Maths, Physics </strong> and <strong>Computer Science</strong> at <strong>Alpha College, Karachi</strong></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hunxjunedo&label=Profile%20views&color=0e75b6&style=flat" alt="hunxjunedo" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=hunxjunedo&label=Profile%20views&color=0e75b6&style=flat" alt="hunxjunedo" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hunxjunedo" alt="hunxjunedo" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hunxjunedo&theme=tokyonight&column=5&margin-w=15&margin-h=15&no-frame=true" alt="hunxjunedo" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -17,9 +18,9 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/hunxjunedo"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="hunxjunedo" /></a></p><br><br>
 <br />
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hunxjunedo&show_icons=true&locale=en&layout=compact" alt="hunxjunedo" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hunxjunedo&show_icons=true&locale=en&layout=compact&hide_border=true&theme=tokyonight" alt="hunxjunedo" /></p>
 
 <br />
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hunxjunedo&show_icons=true&locale=en" alt="hunxjunedo" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hunxjunedo&show_icons=true&locale=en&hide_border=true&theme=tokyonight" alt="hunxjunedo" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hunxjunedo&" alt="hunxjunedo" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hunxjunedo&hide_border=true&theme=tokyonight" alt="hunxjunedo" /></p>
