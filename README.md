@@ -1,6 +1,5 @@
 <h1 align="center">Hey 👋, I'm Hunain</h1>
 <h3 align="center">a freelance software developer from Pakistan, always working on something new and fascinating.</h3>
-<li>I'm currently working on: <a href="https://github.com/React-ChatBotify"><strong>React Chatbotify Gallery  🚀</strong></a></li>
 <br>
 
 
