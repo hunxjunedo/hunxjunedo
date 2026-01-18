@@ -1,5 +1,5 @@
-# Hey, I'm Hunain. 
-A programmer from Pakistan, currently exploring the Rust ecosystem 🚀 
+# Hey, I'm Hunain. Exploring Rust 🦀  
+A programmer from Pakistan, love system design and programming. 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hunain-ahmed-267780275) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:junaidhunain6@gmail.com) 
 
