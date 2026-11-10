@@ -1,5 +1,5 @@
 # Hey, I'm Hunain. Exploring Rust 🦀  
-A programmer from Pakistan, love system design and programming. 
+A programmer based in Hong Kong, love system design and programming. 
 
 
 ## 🌐 Socials:
@@ -9,8 +9,7 @@ A programmer from Pakistan, love system design and programming.
 ![](https://streak-stats.demolab.com/?user=hunxjunedo&theme=ayu-mirage&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=hunxjunedo&theme=ayu-mirage&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/hunxjunedo) 
+
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
